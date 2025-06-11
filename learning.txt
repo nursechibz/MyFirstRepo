@@ -1,0 +1,2 @@
+So far i am learning basic commands on Git and how to use it alonside Github
+
